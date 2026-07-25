@@ -4,7 +4,9 @@ Warning: This software is terrible, and NO ONE should be using it for any reason
 
 A macOS 26+ SwiftUI photo viewer with built-in editing tools.
 
-Version: 0.0.1-a
+Version: 0.0.1
+
+This software barely works. Will it ever? Possibly. Should you use it? No. Please have more respect for yourself.
 
 ## Overview
 
